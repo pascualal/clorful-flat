@@ -1,0 +1,189 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+.menu {
+	height: 100px;
+	background-color: #B2D6FF;
+	font-family: 'Sniglet', cursive;
+	font-size: 50px;
+	text-align: center;
+	color: #595A4A;
+	padding-top: 20px;
+}
+
+h1 {
+	margin: 0 auto;
+}
+
+
+
+.sidebar {
+	height: 500px;
+	width: 200px;
+	background-image: url(../images/3.jpg);
+	float: left;
+	margin: 10px;
+}
+
+.page	{
+	width: 900px;
+	margin: 0 auto;	
+
+	
+}
+
+.ooo {
+	background-color: #B0FE76;
+	padding: 10px;
+	height: 300px;
+	float: left;
+	width: 250px;
+}
+
+
+.content {
+	height: 500px;
+	background-color: white;
+	width: 650px;
+	float: right;
+	margin: 10px;
+	padding: 70px 30px 30px 30px;
+}
+
+
+.content h1 {
+	color: #595A4A;
+}
+
+body {
+	background-image: url(https://barbarashdwallpapers.com/wp-content/uploads/2015/11/Colorfull-peacock-wallpaper.jpg);
+	background-position: center;
+	background-size: cover;
+
+}
+
+.footer {
+	/*height: 200px;*/
+	background-color: #D6E9FE;
+	clear: both;
+
+}
+
+.columns {
+	background-color: #B2D6FF;
+	height: 160px;
+	width: 30%;
+	margin: 20px 1.3%;
+	float: left;
+}
+
+.clear::after {
+	content: "";
+	clear: both;
+	display: table;
+}
+
+
+/*------------------------------------------*/
+
+
+
+.article-image {
+	float: left;
+	
+	height: 300px;
+	margin: 0 20px 20 px 0;
+}
+
+p {
+	margin-bottom: 20px;
+	font-family: 'PT Sans Narrow', sans-serif;
+}
+
+
+
+/*------------------------------------------*/
+
+.avatar {
+	float: left;
+	width: 60px;
+	height: 60px;
+	margin: 25px;
+	border-radius: 40px;
+	background-color: #D6E9FE;
+	background-image: url(../images/images.jpeg);
+	background-position: center;
+	background-size: cover;
+}
+
+.username {
+	margin-top: 30px;
+
+}
+
+.comments {
+	margin: 10px;
+	overflow: hidden;
+}
+
+
+
+
+/*------------------------------------------*/
+
+
+/*
+.clear {
+	overflow: auto;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+.color1 {
+	background-color: #363635;
+}
+
+
+.color2 {
+	background-color: #595A4A;
+}
+
+
+.color3 {
+	background-color: #B0FE76;
+}
+
+.color4 {
+	background-color: #81E979;
+}
+
+.color5 {
+	background-color: #8FBB99;
+}
+
+.color6 {
+	background-color: #363635;
+}
+
+
+
+
+
+
+
+
+
